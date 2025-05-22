@@ -1,9 +1,9 @@
 # 💫 About Me:
-Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções inovadoras! Atuo no universo da tecnologia com foco em desenvolvimento front-end e tenho uma  experiência com a stack Node.js.<br><br>Contribuí como voluntário na "Saúde Mental para Todos", onde utilizei minhas habilidades para criar interfaces intuitivas e acessíveis que facilitam o acesso a recursos essenciais. Essa experiência não apenas aprimorou minhas habilidades técnicas, mas também abriu meus olhos para a importância da tecnologia na promoção do bem-estar mental.<br><br>Trabalho diariamente buscando aprender e crescer neste vasto universo da programação, sempre em busca de desafios que me permitam evoluir profissionalmente. Sou movido pela curiosidade e pela paixão por criar soluções que impactam positivamente a vida das pessoas.<br><br>Minha jornada no desenvolvimento é apenas o começo, e estou ansioso para explorar novas oportunidades, contribuir para projetos significativos e continuar aprendendo neste incrível mundo da tecnologia! 
+Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções inovadoras! Atuo no universo da tecnologia com foco em desenvolvimento back-end.<br><br>Trabalho diariamente buscando aprender e crescer neste vasto universo da programação, sempre em busca de desafios que me permitam evoluir profissionalmente. Sou movido pela curiosidade e pela paixão por criar soluções que impactam positivamente a vida das pessoas.<br><br>Minha jornada no desenvolvimento é apenas o começo, e estou ansioso para explorar novas oportunidades, contribuir para projetos significativos e continuar aprendendo neste incrível mundo da tecnologia! 
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thiagoestud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-gabriel-46443b29a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/thiago-gabriel-46443b29a/](https://www.linkedin.com/in/thiago-gabriel-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-46443b29a/)) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,9 +22,4 @@ Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thiagoed-souza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=thiagoed-souza&icon=2&color=12)](https://visitcount.itsvg.in)
 
