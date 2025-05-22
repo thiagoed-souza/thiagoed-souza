@@ -12,7 +12,7 @@ Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thiagoed-souza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![thiagoed-souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoed-souza)](https://github.com/thiagoed-souza/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagoed-souza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoed-souza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
