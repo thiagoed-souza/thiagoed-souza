@@ -10,8 +10,8 @@ Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções
 # 📊 GitHub Stats:
 [![thiagoed-souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoed-souza)](https://github.com/thiagoed-souza/github-readme-stats)<br/>
 
-- Thanks for visiting.
+- Obrigado pela visita.
 
-- Enjoy it!! o/
+- ☺️!! o/
 
 
