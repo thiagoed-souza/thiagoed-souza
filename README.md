@@ -9,17 +9,6 @@ Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções
 
 # 📊 GitHub Stats:
 [![thiagoed-souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoed-souza)](https://github.com/thiagoed-souza/github-readme-stats)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoed-souza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thiagoed-souza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thiagoed-souza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 - Thanks for visiting.
 
