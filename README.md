@@ -9,6 +9,7 @@ Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções
 
 # 📊 GitHub Stats:
 [![thiagoed-souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoed-souza)](https://github.com/thiagoed-souza/github-readme-stats)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 - Obrigado pela visita.
 
