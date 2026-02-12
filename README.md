@@ -7,8 +7,7 @@ Desenvolvedor Júnior apaixonado por transformar linhas de código em soluções
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 📊 GitHub Stats:
-[![thiagoed-souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoed-souza)](https://github.com/thiagoed-souza/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 - Obrigado pela visita.
 
 - ☺️!! o/
