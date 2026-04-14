@@ -71,11 +71,13 @@ C • Lógica de Programação • Estruturas de Dados
 
 ## 📊 Estatísticas GitHub
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoed-souza&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoed-souza&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoed-souza&show_icons=true&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoed-souza&theme=github_dark"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoed-souza&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagoed-souza&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagoed-souza&theme=github_dark&utcOffset=-3" />
 </p>
 
 ---
