@@ -10,7 +10,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🚀 Em transição de carreira para Tecnologia  
 
-Sou apaixonado por resolver problemas e construir soluções eficientes. Tenho experiência com suporte técnico N1 e atendimento ao cliente, o que fortaleceu minha comunicação e análise de demandas. Atualmente, foco no desenvolvimento de APIs e sistemas back-end com Python.
+Sou apaixonado por resolver problemas e construir soluções eficientes. Tenho experiência com suporte técnico N1 e atendimento ao cliente, o que fortaleceu minha comunicação e análise de demandas. Atualmente, foco no desenvolvimento de APIs e sistemas back-end com Python e C
 
 ---
 
