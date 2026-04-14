@@ -72,9 +72,8 @@ C • Lógica de Programação • Estruturas de Dados
 ## 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoed-souza&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoed-souza&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagoed-souza&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoed-souza&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoed-souza&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
