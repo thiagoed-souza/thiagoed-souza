@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-# 👋 Olá, eu sou o Thiago Gabriel!
+# 👋 Olá, eu sou Thiago Gabriel!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=seuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
