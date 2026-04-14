@@ -46,7 +46,7 @@ Sou apaixonado por resolver problemas e construir soluções eficientes. Tenho e
 **🧠 Tecnologias:**
 C • Lógica de Programação • Estruturas de Dados
 
-📎 ![Link do repositório](https://github.com/thiagoed-souza/super-trunfo-c-2.git)
+📎 [Link do repositório](https://github.com/thiagoed-souza/super-trunfo-c-2.git)
 
 ---
 
